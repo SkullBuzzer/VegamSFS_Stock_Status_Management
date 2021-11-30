@@ -1,0 +1,254 @@
+2021-11-28 19:24:46,289 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 19:24:46,289 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 19:26:29,178 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 19:26:29,179 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 20:12:03,402 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 20:12:03,403 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 20:12:15,133 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:13:21,526 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 20:13:21,542 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 20:13:30,656 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:14:06,725 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 20:14:06,725 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 20:14:16,085 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:14:23,538 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:17:42,443 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 20:17:42,443 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 20:17:51,542 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:17:58,925 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:18:04,552 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:18:10,152 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 20:18:10,182 : INFO : Test_001_DDt_Login : ******* Login DDt test passed *********
+2021-11-28 20:56:15,662 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 20:56:15,663 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 20:56:25,616 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 20:57:04,707 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 20:57:04,707 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 20:57:14,337 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:13:33,679 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:13:33,680 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:13:44,110 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:14:54,782 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:14:54,783 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:15:04,160 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:16:31,543 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:16:31,544 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:16:42,287 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:18:55,596 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:18:55,596 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:19:05,482 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:20:59,703 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:20:59,724 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:21:10,310 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:24:00,382 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:24:00,382 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:24:11,389 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:27:12,965 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:27:12,966 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:27:24,866 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:28:25,186 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:28:25,187 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:28:36,714 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:28:43,219 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module passed *********
+2021-11-28 21:30:59,869 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:30:59,870 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:31:10,784 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:36:31,096 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:36:31,097 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:36:41,904 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:39:26,647 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 21:39:26,648 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 21:39:37,687 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 21:39:45,006 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module passed *********
+2021-11-28 22:00:13,522 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status page started *********
+2021-11-28 22:00:23,154 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 22:00:31,357 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status page passed *********
+2021-11-28 22:01:22,315 : INFO : Test_001_DDt_Login : ********** Test_001_DDT_Login **********
+2021-11-28 22:01:22,316 : INFO : Test_001_DDt_Login : ********** test_login ddt started ***********
+2021-11-28 22:01:32,791 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 22:01:40,336 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 22:01:45,910 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 22:01:51,491 : INFO : Test_001_DDt_Login : ***Passed
+2021-11-28 22:01:51,521 : INFO : Test_001_DDt_Login : ******* Login DDt test passed *********
+2021-11-28 22:01:55,024 : INFO : Test_002_Verify_Stock_Status_Module : *********** Test_002_Verify_Stock_Status_Module *************
+2021-11-28 22:01:55,025 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module started *********
+2021-11-28 22:02:04,670 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 22:02:11,222 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status module passed *********
+2021-11-28 22:02:15,480 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status page started *********
+2021-11-28 22:02:22,734 : INFO : Test_002_Verify_Stock_Status_Module : *************** Login Successful ****************
+2021-11-28 22:02:29,756 : INFO : Test_002_Verify_Stock_Status_Module : *********** test verify stock status page passed *********
+2021-11-29 10:58:21,202 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 10:58:21,251 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 10:58:32,739 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 10:59:38,019 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 10:59:38,019 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 10:59:48,264 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 10:59:54,642 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 11:38:28,557 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 11:38:28,557 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 11:38:39,313 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 11:38:43,719 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 11:39:14,356 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 11:39:14,357 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 11:39:27,005 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 11:39:31,555 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 12:04:05,868 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 12:04:05,869 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 12:04:15,063 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 12:04:22,512 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 13:22:41,200 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 13:22:41,201 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 13:22:52,226 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 13:22:57,625 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 13:38:27,365 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 13:38:27,366 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 13:38:38,182 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 13:38:44,034 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 14:07:14,472 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 14:07:14,473 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 14:07:24,168 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 14:07:27,903 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 16:37:49,386 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 16:37:49,409 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 16:38:00,510 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 16:38:04,960 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 16:40:51,302 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 16:40:51,302 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 16:41:05,399 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 16:41:10,573 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 16:44:34,202 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 16:44:34,203 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 16:44:45,533 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 16:44:55,215 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 16:50:38,706 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 16:50:38,708 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 16:51:00,722 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 16:51:16,288 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:00:14,384 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:00:14,385 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:00:26,667 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:00:30,363 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:01:54,519 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:01:54,520 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:03:04,926 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:03:20,112 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:06:39,058 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:06:39,059 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:06:48,318 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:06:56,149 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:08:01,724 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:08:01,725 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:08:10,712 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:08:15,479 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:10:02,583 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:10:02,626 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:10:12,902 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:10:17,331 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:11:34,785 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:11:34,787 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:11:45,400 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:11:50,917 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:19:07,965 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:19:07,966 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:19:28,845 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:19:37,676 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 17:22:51,654 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 17:22:51,655 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 17:23:04,461 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 17:23:12,362 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 18:45:30,635 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 18:45:30,635 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 18:45:41,463 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 18:45:51,423 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 18:48:21,158 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 18:48:21,159 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 18:48:31,558 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 18:48:35,685 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 19:38:42,755 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 19:38:42,756 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 19:38:53,698 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 19:38:59,259 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 19:41:00,847 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 19:41:00,847 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 19:41:10,552 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 19:41:15,959 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 19:41:31,182 : INFO : Test_002_StockStatus_321 : ****** Updated the stock status for the scanned bin ******
+2021-11-29 19:41:49,092 : INFO : Test_002_StockStatus_321 : ************* Accessed WM inventory module **************
+2021-11-29 19:41:58,379 : INFO : Test_002_StockStatus_321 : *********** Stock status updated from QI to UU **************
+2021-11-29 19:42:00,509 : INFO : Test_002_StockStatus_321 : *********** test stock status change_321 passed **************
+2021-11-29 21:27:26,526 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:27:26,526 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:27:36,248 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:27:43,959 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 21:30:55,346 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:30:55,347 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:31:07,239 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:31:13,267 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 21:42:48,574 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:42:48,575 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:42:58,632 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:43:03,812 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 21:45:07,198 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:45:07,199 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:45:17,014 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:45:21,735 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 21:52:48,977 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:52:48,978 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:52:57,856 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:53:02,806 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 21:56:35,400 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 21:56:35,401 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 21:56:46,056 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 21:56:50,133 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 22:12:12,630 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 22:12:12,630 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 22:12:23,573 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 22:12:30,798 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 22:13:19,424 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 22:13:19,425 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 22:13:36,003 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 22:13:42,439 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-29 22:19:58,436 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-29 22:19:58,436 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-29 22:20:10,321 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-29 22:20:18,342 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 09:53:53,274 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 09:53:53,316 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 09:54:36,322 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 09:54:36,324 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 09:55:06,648 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 09:55:31,974 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 09:56:59,038 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 09:56:59,039 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 09:57:13,837 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 09:57:24,655 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 09:59:49,163 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 09:59:49,187 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:00:00,322 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:00:04,992 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:02:03,182 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 10:02:03,182 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:02:13,149 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:02:18,437 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:02:48,139 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 10:02:48,140 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:02:58,064 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:03:02,394 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:03:40,566 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 10:03:40,567 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:03:50,770 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:03:58,600 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:04:32,619 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 10:04:32,620 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:04:41,983 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:04:47,140 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:05:16,773 : INFO : Test_002_StockStatus_321 : *** Successfully transferred req qty different bin ***
+2021-11-30 10:17:13,117 : INFO : Test_002_StockStatus_321 : ************* Test_002_StockStatus_321 ***************
+2021-11-30 10:17:13,118 : INFO : Test_002_StockStatus_321 : ******** test stock status change_321 started ********
+2021-11-30 10:17:22,727 : INFO : Test_002_StockStatus_321 : ***************** Login Successful *******************
+2021-11-30 10:17:34,124 : INFO : Test_002_StockStatus_321 : ******* Accessed Stock status management page ********
+2021-11-30 10:18:00,057 : INFO : Test_002_StockStatus_321 : *** Successfully transferred req qty different bin ***
+2021-11-30 10:18:19,664 : INFO : Test_002_StockStatus_321 : ****** Updated the stock status for the scanned bin ******
+2021-11-30 10:18:40,718 : INFO : Test_002_StockStatus_321 : ************* Accessed WM inventory module **************
+2021-11-30 10:18:49,165 : INFO : Test_002_StockStatus_321 : *********** Stock status updated from QI to UU **************
+2021-11-30 10:18:50,286 : INFO : Test_002_StockStatus_321 : ********** test_stockStatus_321_partially passed ***********
